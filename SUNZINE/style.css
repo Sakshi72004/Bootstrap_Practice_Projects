@@ -1,0 +1,29 @@
+.custom-menu-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+  width: 0;
+  height: 2px;
+  background-color: #00c9a7;
+  transition: width 0.3s ease;
+}
+
+
+.custom-menu-link:hover::after {
+  width: 100%;
+}
+
+.custom-menu-link:hover {
+  color: #000;
+}
+.custom-hero {
+  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+              url("Images/banner.jpg") center/cover no-repeat;
+  color: #fff;
+  padding: 25px 20px;
+}
+
+.custom-social-icons a:hover {
+  color: #106fbe;
+}
