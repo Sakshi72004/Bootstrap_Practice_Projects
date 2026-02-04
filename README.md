@@ -27,7 +27,7 @@ Live Demo: https://boostrap-project-sunzine.netlify.app/
 
 ---
 
-2) 🥋 Nova Martial Arts Website
+2) 🥋 Kensho – Martial Arts Academy Website
 
 A modern, responsive multi-section website built using **Bootstrap 5**, **HTML5**, and **CSS3**.  
 This project represents a martial arts training academy with instructors, services, testimonials, and blog sections.
