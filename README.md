@@ -1,6 +1,6 @@
 # Bootstrap_Practice_Projects
 
-# 📸 Sunzine Photo Gallery
+1) 📸 Sunzine Photo Gallery
 
 A modern, responsive photo gallery website built using **Bootstrap 5**, **HTML5**, and **CSS3**.  
 This project showcases a clean UI, responsive grid layout, and elegant design suitable for photography portfolios.
@@ -17,7 +17,7 @@ Live Demo: https://boostrap-project-sunzine.netlify.app/
 - Hover effects on images  
 - Mobile-first and fully responsive design  
 
----
+
 
 ## 🛠️ Technologies Used
 - HTML5  
