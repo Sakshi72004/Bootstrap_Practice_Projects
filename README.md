@@ -55,42 +55,11 @@ This project represents a martial arts training academy with instructors, servic
 
 ---
 
-## 📂 Sections Included
-- Hero / Banner
-- Learn & Enroll Section
-- Our Teachers
-- Services
-- Testimonials
-- Blog Posts
-- Footer with Contact Info
-
----
-
-## 🚀 How to Run
-1. Download or clone the repository  
-2. Open `index.html` in any modern browser  
-
----
-
 ## 📱 Responsive Design
 This website is optimized for:
 - Mobile devices  
 - Tablets  
 - Desktop screens  
-
----
-
-## 🎯 Future Improvements
-- Navbar scroll animation using JavaScript
-- Video modal for “Watch Video”
-- Dynamic blog data
-- Backend integration
-
----
-
-## 👩‍💻 Author
-**Sakshi Pawar**  
-Front-End Developer | Bootstrap & MERN Stack Enthusiast  
 
 ---
 
