@@ -34,6 +34,8 @@ This project represents a martial arts training academy with instructors, servic
 
 ---
 
+Live Demo: https://bootstrap-practice-kensho.netlify.app/
+
 ## 🌟 Features
 - Full-screen hero banner with overlay
 - Transparent navbar with scroll effect
