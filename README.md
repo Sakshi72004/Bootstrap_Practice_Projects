@@ -1,6 +1,6 @@
-# Bootstrap_Practice_Projects
+## 🗂️ BOOTSTRAP PROJECTS COLLECTION
 
-1) 📸 Sunzine Photo Gallery
+### 🔶 **SUNZINE — PHOTO GALLERY WEBSITE**
 
 A modern, responsive photo gallery website built using **Bootstrap 5**, **HTML5**, and **CSS3**.  
 This project showcases a clean UI, responsive grid layout, and elegant design suitable for photography portfolios.
@@ -27,7 +27,10 @@ Live Demo: https://boostrap-project-sunzine.netlify.app/
 
 ---
 
-2) 🥋 Kensho – Martial Arts Academy Website
+
+
+### 🔶 **KENSHO — MARTIAL ARTS ACADEMY WEBSITE**
+
 
 A modern, responsive multi-section website built using **Bootstrap 5**, **HTML5**, and **CSS3**.  
 This project represents a martial arts training academy with instructors, services, testimonials, and blog sections.
