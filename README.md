@@ -68,5 +68,42 @@ This website is optimized for:
 
 ---
 
+
+### 🔶 **FLORIST — FLOWER SHOP WEBSITE**
+
+A modern, responsive **Flower Shop website** built using **HTML, CSS, and Bootstrap 5**.  
+This project focuses on clean UI design, responsiveness, and best Bootstrap practices.
+
+Live Demo: https://bootstrap-flower-website.netlify.app/
+
+
+---
+
+## ✨ Features
+
+- 🌼 Elegant and modern flower shop design  
+- 📱 Fully responsive (Mobile, Tablet & Desktop)
+- 🎠 Hero carousel with background images
+- 🗂️ Category cards with hover effects
+- 🛍️ Product listing section
+- 🎥 Video / promotional section
+- 💬 Testimonial section
+- 📸 Image gallery grid
+- 📩 Newsletter subscription UI
+- 🧼 Clean & optimized CSS (Bootstrap-first approach)
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **Bootstrap 5**
+- **Font Awesome**
+- **Google Fonts**
+
+---
+
+
 ⭐ If you like this project, don’t forget to star the repository!
 
